@@ -1,0 +1,14 @@
+start_ts,end_ts,reason,planned,minutes
+2026-10-26 06:32:03,2026-10-26 06:35:03,Minor stop - product jam at slicer,False,3.0
+2026-10-26 06:41:53,2026-10-26 06:42:53,Minor stop - tray misfeed,False,1.0
+2026-10-26 06:46:47,2026-10-26 06:47:47,Minor stop - product jam at slicer,False,1.0
+2026-10-26 07:01:53,2026-10-26 07:03:23,Minor stop - product jam at slicer,False,1.5
+2026-10-26 07:40:00,2026-10-26 07:52:00,Loader jam,False,12.0
+2026-10-26 08:26:46,2026-10-26 08:28:16,Minor stop - tray misfeed,False,1.5
+2026-10-26 08:42:20,2026-10-26 08:43:50,Minor stop - product jam at slicer,False,1.5
+2026-10-26 09:00:00,2026-10-26 09:15:00,Break,True,15.0
+2026-10-26 10:00:52,2026-10-26 10:03:52,Minor stop - product jam at slicer,False,3.0
+2026-10-26 10:30:00,2026-10-26 11:00:00,Lunch,True,30.0
+2026-10-26 11:00:00,2026-10-26 11:20:00,Changeover,False,20.0
+2026-10-26 12:38:00,2026-10-26 12:42:00,Slicer adjustment,False,4.0
+2026-10-26 13:05:00,2026-10-26 13:12:00,Film break - thermoformer,False,7.0
